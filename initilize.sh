@@ -20,6 +20,3 @@ echo 48 > export
 cd gpio48 
 echo out > direction 
 echo 1 > value    
-
-#change dir
-cd /sys/class/gpio
