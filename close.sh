@@ -7,6 +7,3 @@ cd gpio30
 echo 0 > value
 cd gpio31
 echo 1 > value
-
-
-cd /sys/class/gpio
